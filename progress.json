@@ -311,5 +311,14 @@
       "Great work using git tag to annotate various commits in the repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1789710097.773553,
+    "completed_at": 1789710100.717449,
+    "comments": [
+      "The 'first-update' tag still exists."
+    ],
+    "status": "Incomplete"
   }
 ]
