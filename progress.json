@@ -320,5 +320,14 @@
       "The 'first-update' tag still exists."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1789710159.392099,
+    "completed_at": 1789710162.72713,
+    "comments": [
+      "The 'january-update' tag is pointing to the wrong commit. It should point to the January commit."
+    ],
+    "status": "Incomplete"
   }
 ]
